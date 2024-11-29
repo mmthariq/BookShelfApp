@@ -25,4 +25,4 @@ Untuk melihat hasilnya, silakan klik di sini: [GitHub Repository](https://mmthar
 
 ## Hak Cipta
 
-© 2024 Muhammad Thariq H. Semua hak cipta dilindungi.
+© 2024 Muhammad Thariq H.
