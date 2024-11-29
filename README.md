@@ -27,4 +27,4 @@ Ini adalah Starter Project yang saya kerjakan sebagai tugas pribadi untuk kelas 
 
 ## Tautan
 
-Untuk melihat kode sumber dan kontribusi lainnya, Anda dapat mengunjungi halaman repositori GitHub saya di sini: [GitHub Repository](https://github.com/username/repository-name)
+Untuk melihat kode sumber dan kontribusi lainnya, Anda dapat mengunjungi halaman repositori GitHub saya di sini: [GitHub Repository](https://mmthariq.github.io/BookShelfApp/)
