@@ -21,7 +21,7 @@ Ini adalah Starter Project yang saya kerjakan sebagai tugas pribadi untuk kelas 
     - `data-testid="bookItemTitle"`, `data-testid="bookItemAuthor"`, `data-testid="bookItemYear"`: untuk menampilkan informasi buku.
     - `data-testid="bookItemIsCompleteButton"`, `data-testid="bookItemDeleteButton"`, `data-testid="bookItemEditButton"`: untuk tombol-tombol interaktif.
 
-Untuk melihat kode sumber dan kontribusi lainnya, Anda dapat mengunjungi halaman repositori GitHub saya di sini: [GitHub Repository](https://mmthariq.github.io/BookShelfApp/)
+Untuk melihat hasilnya, silakan klik di sini: [GitHub Repository](https://mmthariq.github.io/BookShelfApp/)
 
 ## Hak Cipta
 
